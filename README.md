@@ -1,15 +1,18 @@
 ### Olá!,👋
 
-eu sou Jose Ludovico de Almeida III, um profissional de TI com uma sólida experiência em gerenciamento de tecnologia e consultoria especializada em infraestrutura.
+eu sou Jose Ludovico de Almeida III, um profissional de TI com uma sólida experiência em gerenciamento de tecnologia e consultor especialista em infraestrutura.
 Minha jornada profissional e minha busca contínua por aprimoramento moldaram meu perfil técnico e pessoal.
 
 ### Experiência Profissional
 Analista de TI - 2 anos no Hospital Santa Genoveva
 Gerente de TI - 2 anos no Hospital Santa Genoveva
 Gerente de TI na Ludovida Home Care - 3 anos
-Formação e Cursos
+
+### Formação e Cursos
 Programador de Sistemas pelo SENAC
 Participação na Startup Enxuta do SENAC
+Cursando Gestor de Startup pela UNIASSELV
+Gerente de Ti pela Faculdade CAMBURI
 
 ### Habilidades Pessoais
 Comunicação Efetiva: Habilidade em transmitir informações complexas de forma acessível e compreensível.
